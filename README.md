@@ -20,12 +20,6 @@
 
 ## Langkah 1: Run docker compose
 
-```bash
-# Contoh perintah terminal yang dijalankan
-sudo docker compose up -d -- build (untuk compose file docker-compose.yml yang sudah di configurasi)
-sudo docker ps (untuk melihat apakah container yang di buat sudah berjalan)
-```
-
 **Dokumentasi/Screenshot:**
 ![Check container](img/check.png)
 ![Check backend run](img/run.png)
@@ -33,6 +27,11 @@ sudo docker ps (untuk melihat apakah container yang di buat sudah berjalan)
 ---
 
 ### Langkah 2: CRUD using postman
+
+<img src="img/post.png.png" width="500">
+<img src="img/read.png.png" width="500">
+<img src="img/update.png.png" width="500">
+<img src="img/delate.png.png" width="500">
 
 ![Create: ](img/post.png.png)
 ![Read: ](img/read.png)
@@ -43,7 +42,7 @@ sudo docker ps (untuk melihat apakah container yang di buat sudah berjalan)
 
 ### Langkah 3: Check Docker images and volume
 
-![volume and images: ](img/images&volume.png.png)
+<img src="img/images&volume.png.png" width="500">
 
 ## Kesimpulan
 

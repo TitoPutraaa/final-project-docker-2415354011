@@ -28,21 +28,16 @@
 
 ### Langkah 2: CRUD using postman
 
-<img src="img/post.png.png" width="500">
-<img src="img/read.png.png" width="500">
-<img src="img/update.png.png" width="500">
-<img src="img/delate.png.png" width="500">
-
-![Create: ](img/post.png.png)
-![Read: ](img/read.png)
-![Update: ](img/update.png.png)
-![Delate: ](img/delate.png.png)
+<img src="img/post.png" width="500">
+<img src="img/read.png" width="500">
+<img src="img/update.png" width="500">
+<img src="img/delate.png" width="500">
 
 ---
 
 ### Langkah 3: Check Docker images and volume
 
-<img src="img/images&volume.png.png" width="500">
+<img src="img/images&volume.png" width="500">
 
 ## Kesimpulan
 
